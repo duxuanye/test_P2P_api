@@ -1,0 +1,5 @@
+2022-08-04 14:29:34,366 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:29:34,374 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:31:10,769 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:31:10,770 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:31:11,049 INFO [root] [tender.py(test01_get_loaninfo:21)] - get_loaninfo response = {'status': 100}

@@ -1,0 +1,19 @@
+2022-08-04 14:41:46,358 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:41:46,367 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:41:46,643 INFO [root] [tender.py(test01_get_loaninfo:23)] - get_loaninfo response = {'status': 100}
+2022-08-04 14:42:11,918 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:42:11,918 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:43:35,813 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:43:35,814 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:43:50,250 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:43:50,250 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:43:50,545 INFO [root] [tender.py(test01_get_loaninfo:30)] - get_loaninfo response = {'status': 100}
+2022-08-04 14:43:59,823 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:43:59,826 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:44:18,197 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:44:18,198 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:44:48,713 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:44:48,714 ERROR [root] [__init__.py(<module>:6)] - error
+2022-08-04 14:44:49,010 INFO [root] [tender.py(test01_get_loaninfo:30)] - get_loaninfo response = {'status': 100}
+2022-08-04 14:44:57,923 INFO [root] [__init__.py(<module>:5)] - info
+2022-08-04 14:44:57,924 ERROR [root] [__init__.py(<module>:6)] - error
